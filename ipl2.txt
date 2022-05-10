@@ -1,0 +1,61 @@
+     Date	                         Matches	                  Venue	        Time
+01.  05-Apr-2019   Sunrisers Hyderabad VS Royal Challengers Bangalore	  Hyderabad	8:00 PM
+02.  06-Apr-2019   Chennai Super Kings  VS Mumbai Indians	          Chennai	8:00 PM
+03.  07-Apr-2019   Rajasthan Royals VS Kolkata Knight Riders	          Jaipur	8:00 PM
+04.  08-Apr-2019   Kings XI Punjab VS Chennai Super Kings	          Indore	4:00 PM
+05.  08-Apr-2019   Royal Challengers Bangalore VS Delhi Daredevils	  Bengaluru	8:00 PM
+06.  09-Apr-2019   Sunrisers Hyderabad VS Rajasthan Royals	          Hyderabad	4:00 PM
+07.  09-Apr-2019   Mumbai Indians VS Kolkata Knight Riders	          Mumbai	8:00 PM
+08.  10-Apr-2019   Kings XI Punjab VS Royal Challengers Bangalore	  Indore	8:00 PM
+09.  11-Apr-2019   Chennai Super Kings VS Delhi Daredevils	          Chennai  	8:00 PM
+10.  12-Apr-2019   Mumbai Indians VS Sunrisers Hyderabad	          Mumbai	8:00 PM
+11.  13-Apr-2019   Kolkata Knight Riders VS Kings XI Punjab	          Kolkata	8:00 PM
+12.  14-Apr-2019   Royal Challengers Bangalore VS Mumbai Indians	  Bengaluru	4:00 PM
+13.  14-Apr-2019   Rajasthan Royals VS Chennai Super Kings	          Jaipur	8:00 PM
+14.  15-Apr-2019   Kolkata Knight Riders VS Sunrisers Hyderabad	          Kolkata	4:00 PM
+15.  15-Apr-2019   Delhi Daredevils VS Kings XI Punjab	                  Delhi	        8:00 PM
+16.  16-Apr-2019   Mumbai Indians VS Rajasthan Royals	                  Mumbai	4:00 PM
+17.  16-Apr-2019   Royal Challengers Bangalore VS Chennai Super Kings	  Bengaluru	8:00 PM
+18.  17-Apr-2019   Delhi Daredevils VS Kolkata Knight Riders	          Delhi	        4:00 PM
+19.  17-Apr-2019   Sunrisers Hyderabad VS Kings XI Punjab	          Hyderabad	8:00 PM
+20.  18-Apr-2019   Rajasthan Royals VS Royal Challengers Bangalore	  Jaipur	8:00 PM
+21.  19-Apr-2019   Sunrisers Hyderabad VS Delhi Daredevils	          Hyderabad	8:00 PM
+22.  20-Apr-2019   Kings XI Punjab VS Mumbai Indians	                  Indore	8:00 PM
+23.  21-Apr-2019   Kolkata Knight Riders VS Rajasthan Royals	          Kolkata	8:00 PM
+24.  22-Apr-2019   Delhi Daredevils VS Mumbai Indians	                  Delhi	        4:00 PM
+25.  22-Apr-2019   Chennai Super Kings VS Sunrisers Hyderabad	          Chennai	8:00 PM
+26.  23-Apr-2019   Rajasthan Royals VS Kings XI Punjab	                  Jaipur	4:00 PM
+27.  23-Apr-2019   Kolkata Knight Riders VS Royal Challengers Bangalore	  Kolkata	8:00 PM
+28.  24-Apr-2019   Mumbai Indians VS Chennai Super Kings	          Mumbai	8:00 PM
+29.  25-Apr-2019   Royal Challengers Bangalore VS Sunrisers Hyderabad	  Bengaluru	8:00 PM
+30.  26-Apr-2019   Chennai Super Kings VS Kolkata Knight Riders	          Chennai	8:00 PM
+31.  27-Apr-2019   Royal Challengers Bangalore VS Rajasthan Royals	  Bengaluru	8:00 PM
+32.  28-Apr-2019   Kolkata Knight Riders VS Delhi Daredevils	          Kolkata	4:00 PM
+33.  28-Apr-2019   Kings XI Punjab VS Sunrisers Hyderabad	          Mohali	8:00 PM
+34.  29-Apr-2019   Chennai Super Kings VS Royal Challengers Bangalore	  Chennai	4:00 PM
+35.  29-Apr-2019   Rajasthan Royals VS Mumbai Indians	                  Jaipur        8:00 PM
+36.  30-Apr-2019   Kings XI Punjab VS Delhi Daredevils	                  Mohali	4:00 PM
+37.  30-Apr-2019   Sunrisers Hyderabad VS Kolkata Knight Riders	          Hyderabad	8:00 PM
+38.  01-May-2019   Mumbai Indians VS Royal Challengers Bangalore	  Mumbai	4:00 PM
+39.  01-May-2019   Chennai Super Kings VS Rajasthan Royals	          Chennai	8:00 PM
+40.  02-May-2019   Delhi Daredevils VS Sunrisers Hyderabad	          Delhi	        8:00 PM
+41.  03-May-2019   Kolkata Knight Riders VS Chennai Super Kings	          Kolkata	8:00 PM
+42.  04-May-2019   Delhi Daredevils VS Rajasthan Royals	                  Delhi	        8:00 PM
+43.  05-May-2019   Royal Challengers Bangalore VS Kings XI Punjab	  Bengaluru	8:00 PM
+44.  06-May-2019   Sunrisers Hyderabad VS Chennai Super Kings	          Hyderabad	4:00 PM
+45.  06-May-2019   Mumbai Indians VS Delhi Daredevils	                  Mumbai	8:00 PM
+46.  07-May-2019   Royal Challengers Bangalore VS Kolkata Knight Riders	  Bengaluru	4:00 PM
+47.  07-May-2019   Kings XI Punjab VS Rajasthan Royals	                  Mohali	8:00 PM
+48.  08-May-2019   Sunrisers Hyderabad VS Mumbai Indians	          Hyderabad	8:00 PM
+49.  09-May-2019   Kings XI Punjab VS Kolkata Knight Riders	          Mohali	8:00 PM
+50.  10-May-2019   Rajasthan Royals VS Delhi Daredevils	                  Kanpur	8:00 PM
+51.  11-May-2019   Mumbai Indians VS Kings XI Punjab	                  Mumbai	8:00 PM
+52.  12-May-2019   Delhi Daredevils VS Chennai Super Kings	          Delhi 	8:00 PM
+53.  13-May-2019   Rajasthan Royals VS Sunrisers Hyderabad	          Kanpur	4:00 PM
+54.  13-May-2019   Kolkata Knight Riders VS Mumbai Indians	          Kolkata	8:00 PM
+55.  14-May-2019   Chennai Super Kings VS Kings XI Punjab	          Chennai	4:00 PM
+56.  14-May-2019   Delhi Daredevils VS Royal Challengers Bangalore	  Delhi	        8:00 PM
+57.  16-May-2019   Qualifier 1	                                          Mumbai	8:00 PM
+58.  17-May-2019   Eliminator	                                          Bengaluru	8:00 PM
+59.  18-May-2019   Qualifier 2	                                          Bengaluru	8:00 PM
+60.  20-May-2019   FINAL	                                          Hyderabad	8:00 PM

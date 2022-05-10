@@ -1,0 +1,11 @@
+        TEAM                            Matches    Win    Lose   NetRunRate    Points
+
+
+1.Mumbai Indians(MI)                    14       12       2     +1.784         28
+2.Chennai Super Kings(CSK)              14       10       4     +0.176         18
+3.Kolkata Knight Riders(KKR)            14        8       5     +0.599         16
+4.Royal Challengers Banglore(RCB)       14        8       6     +0.641         16
+5.Delhi Capitals(DC)                    14        7       7     -0.009         14
+6.Kings Elevens Punjab(KXIP)            14        6       8     -0.512         12
+7.Sunrisers Hyderabad(SRH)              14        4       10    -0.412         08
+8.Rajasthan Royals(RR)                  14        3       11    -1.299         06

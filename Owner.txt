@@ -1,0 +1,9 @@
+         Team                         Owner
+1.Chennai Super Kings           N.Srinivasan’s(Former BCCI President)
+2.Delhi Daredevils              GM Rao
+3.Kings XI Punjab               Priety Zinta(Actress)
+4.Kolkata Knight Riders         Shah Rukh Khan(Actor)
+5.Mumbai Indians                Mukesh Ambani
+6.Rajasthan Royals              Manoj Badale
+7.Royal Challengers Banglore    Vijay Mallya
+8.Sunrisers Hyderabad           Baron Kalanithi Maran 

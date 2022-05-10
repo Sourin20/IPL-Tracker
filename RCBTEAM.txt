@@ -1,0 +1,19 @@
+                ROYAL CHALLENGERS BANGLORE(RCB)
+
+S.No.         Player_Name
+
+1.            Virat Kohli (Captain)
+2.            AB de Villiers
+3.            Parthiv Patel
+4.            Moin Ali
+5.            Shemrion Hetmier
+6.            Yuzvendra Chahal
+7.            Pavan Negi
+8.            Mohammad Siraj
+9.            Sarfaraz Khan
+10.           Tim Southee
+11.           Chris Woakes
+12.           Manan Vohra
+13.           Navdeep Saini
+14.           Ankit Choudhary
+15.           Brendon Mccullum         

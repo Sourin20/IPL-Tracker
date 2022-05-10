@@ -1,0 +1,6 @@
+         Team                         Player Name            
+1.Sun Risers Hyderabad         David Warner           ORANGE CAP[754 Runs]
+2.Mumbai Indians               Hardik Pandya          MOST SIXES[28  Sixes]
+3.Royal Challengers            Ab de Villiers         HIGHEST SCORE[126 Runs]         
+4.Kolkata Knight Riders        Andre Russell          BEST STRIKE RATE[180.98]
+5.Rajasthan Royals             Joss Butler            MOST FOURS[63 Fours]          

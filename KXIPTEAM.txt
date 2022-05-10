@@ -1,0 +1,16 @@
+S.No.	Player Name
+	
+1.	Virender Sehwag		
+2.	George John Bailey	
+3.	Manan Bohara		
+4.	Wriddhiman Saha		
+5.	Jackson Munro Bird	
+6.	David Andrew Miler	
+7.	Axar patel
+8.	Mitchell Johnson	
+9.	Ravichandran Ashwin	
+10.	Karanveer Singh		
+11.	Ravindra Awana	
+12.     Mandeep Singh
+13.     K L Rahul
+14.     Sandeep Sharma

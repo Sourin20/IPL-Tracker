@@ -1,0 +1,16 @@
+S.No.	Player_Name
+	
+1.	Shane Watson	
+2.	Faf Du Plesis	
+3.	Suresh Raina	
+4.	Ambati Raydu	
+5.	Kedar Jadhav	
+6.	M S Dhoni
+7.	Dwane Bravo     
+8.	Ravindra Jadeja	
+9.	Sam Billings	
+10.	Harbhajan Singh	
+11.	Deepak Chahar
+12.     Imran Tahir	
+13.     Ben Cutting
+14.     J.Behrendoff

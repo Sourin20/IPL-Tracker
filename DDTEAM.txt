@@ -1,0 +1,18 @@
+                     DELHI CAPITALS(DC)
+
+S.No.	Player_Name
+
+1.	Jason Roy	
+2.	Gautam Gambhir	
+3.	Rishabh Pant	
+4.	Glenn Maxwell	
+5.	Shreyas Iyer	
+6.	Vijay Shankar	
+7.	Daniel Christian
+8.	Rahul Tewatia
+9.	Shahbaj Nadeem	
+10.	Mohammad Shami	
+11.	Trent Boult	
+12.     Prithvi Shaw
+13.     Chris Morris
+14.     K. Piterson

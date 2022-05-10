@@ -1,0 +1,16 @@
+1.    Rohit Sharma- Captain
+2.    Jos Buttler
+3.    Jasprit Bumrah
+4.    Shreyas Gopal
+5.    Harbhajan Singh
+6.    Mitchell Johnson
+7.    Mitchell McClenaghan
+8.    Lasith Malinga
+9.    Hardik Pandya
+10.   Krunal Pandya
+11.   Parthiv Patel
+12.   Kieron Pollard
+13.   Ambati Rayudu
+14.   Q.de Cock
+15.   Ishan Kishan
+16.   Suryakumar Yadav
